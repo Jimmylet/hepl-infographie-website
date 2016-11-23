@@ -23,19 +23,16 @@ L’objectif principal du site est de renseigner de futurs élèves ou parents s
 La liste des cours détaillés avec les professeurs qui les dispenses.
 
 		* Possibilité de contacter ces professeurs via email si une personne externe à une question.
-	* 
-Une liste des travaux réalisés par les élèves de cette section avec une vue détaillée pour chaque qui contiendrait :
+	* Une liste des travaux réalisés par les élèves de cette section avec une vue détaillée pour chaque qui contiendrait :
 
 		* Le descriptif du projet.
 		* Les techniques utilisées, logiciels, compétences …
 		* Un avis objectif des professeurs sur la réalisation.
 		* Les informations de contact de l’élève/des élèves qui a/ont réalisé(s) le projet.
 
-```
-- Le parcours des anciens étudiants de la section :
-	- Description de l’ancien étudiant et de son poste actuel.
-	- Une petite interview de l’ancien étudiant.
-```
+* Le parcours des anciens étudiants de la section :
+	* Description de l’ancien étudiant et de son poste actuel.
+	* Une petite interview de l’ancien étudiant.
 
 * Un onglet avec la liste des anciens élèves promus
 	* Tous les étudiants promus.
